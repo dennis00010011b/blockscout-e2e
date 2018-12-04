@@ -1,0 +1,22 @@
+{
+  "name": "blockscout-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node t.js"
+  },
+  "dependencies": {
+    "fs-extra": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis00010011b/blockscout-e2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennis00010011b/blockscout-e2e/issues"
+  },
+  "homepage": "https://github.com/dennis00010011b/blockscout-e2e#readme"
+}

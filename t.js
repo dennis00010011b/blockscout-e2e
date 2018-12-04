@@ -1,0 +1,1 @@
+console.log('Blockscout e2e, HELLO!!!')
